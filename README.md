@@ -28,5 +28,5 @@ better ways that I'll eventually look into.
 
 Example output: 
 
-![alt text](https://github.com/sameervinayak31/GroupMeFantasyFootballBot/blob/master/IMG_4985.png)
+![alt text](https://github.com/sameervinayak31/GroupMeFantasyFootballBot/blob/master/IMG_4985-1.png)
 
