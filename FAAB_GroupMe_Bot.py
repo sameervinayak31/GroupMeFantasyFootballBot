@@ -25,7 +25,7 @@ notification, just create the bot in a group consisting of only you.
 
 """
 
-league_id = '78290'
+league_id = '<your yahoo league id>'
 threshold = 2
 groupme_bot_id = '<your groupme bot id>'
 
