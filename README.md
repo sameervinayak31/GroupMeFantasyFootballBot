@@ -26,3 +26,7 @@ In my case, I set up a cron job on an AWS EC2 instance to run every morning at 9
 Yahoo waivers usually clear around 5am EST so this works but there are probably
 better ways that I'll eventually look into.
 
+Example output: 
+
+![alt text](https://github.com/sameervinayak31/GroupMeFantasyFootballBot/blob/master/IMG_4985.png)
+
