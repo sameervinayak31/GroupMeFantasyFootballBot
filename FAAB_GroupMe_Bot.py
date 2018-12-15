@@ -220,10 +220,5 @@ def main(league_id, threshold, groupme_bot_id):
     if len(all_sentences) > 0:
         for i in all_sentences:
             send_message(i,groupme_bot_id)
-    
-
-
-
-   
-
-
+            
+main(league_id, threshold, groupme_bot_id)
